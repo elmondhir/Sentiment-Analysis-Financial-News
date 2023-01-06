@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Financial-News
 
-link: https://www.kaggle.com/datasets/benhamner/nips-papers
+link: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
 
 The Notebook contains the following steps:
 
